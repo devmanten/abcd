@@ -1,0 +1,27 @@
+body {
+    background: grey;
+    font-family: sans-serif;
+}
+.box {
+    background: white;
+    padding: 20px;
+    margin: 30px 100px;
+    border-radius: 10px;
+}
+button {
+    border-radius: 30px;
+    border : none;
+    padding: 10px;
+    cursor: pointer;
+}
+.button1 {
+    background-color: cadetblue;
+   
+}
+.button2 {
+    background-color: coral;
+    
+}
+.button3 {
+    background-color: purple;
+}
